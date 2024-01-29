@@ -1,0 +1,125 @@
+body,h1,h2,h3,h4{
+    font-family: 'Karma', serif;
+}
+
+
+
+
+.bar{
+    position: fixed;
+    width: 100%;
+    background-color:white;
+    height: 8%;
+    top: 0%;
+    nav-left: 0%;
+    border: 2px solid white;
+    display: block;
+    padding-top: 2%;
+}
+.food{
+    padding-left: 10%;
+    font-family:'Karma', serif ;
+}
+.mail{
+    padding-left: 40%;
+    font-family:'Karma', serif ;
+}
+.fa-bars{
+    color: rgb(12, 12, 12);
+    font-size: 25px;
+}
+.Flex-container{
+    display: flex;
+  
+}
+.Flex-container>div{
+    margin: 6%;
+    
+}
+.Flex-containerrr{
+    display: flex;
+    
+}
+.Flex-containerrr>div{
+    margin: 6%;
+
+}
+.foodman{
+    align-items: center;
+    text-align: center;
+}
+.foodman>h3{
+    text-align: center;
+}
+.footer{
+    display: block;
+    display: flex;
+    margin: 4%;
+}
+.footer>.footerone{
+    justify-content: start;
+    display: block;
+    border: 2px solid white;
+    box-sizing: inherit;
+    height: 220px;
+    width: 350px;
+    float: left;
+}
+.footer>.footertwo{
+    border: 2px solid white;
+        width: 850px;
+
+   margin-left: 30%;
+
+}
+.large{
+    display: flex;
+    display: inline-block;
+    
+    
+}
+.largetwo{
+    display: flex;
+    display: inline-block;
+    
+}
+.footer>.footerthree{
+    border: 2px solid white;
+    margin-left: 9%;
+    width: 280px;
+   margin-right: 2% 
+}
+
+.abc{
+    list-style-type: none;
+    
+}
+.zero:hover{
+    background-color: black;
+    color: white;
+}
+
+.one{
+    background-color: black;
+    color: white;
+}
+.two:hover{
+    background-color: black;
+    color: white;
+}
+.three:hover{
+    background-color: black;
+    color: white;
+}
+.four:hover{
+    background-color: black;
+    color: white;
+}
+
+.five:hover{
+    background-color: black;
+    color: white;
+}
+
+
+
